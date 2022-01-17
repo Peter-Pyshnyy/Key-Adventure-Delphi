@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.087,C:\Users\Petya\Documents\Embarcadero\Studio\Projects\pyshnyyAdventure\uInGame.pas=C:\Users\Petya\Documents\Embarcadero\Studio\Projects\pyshnyyAdventure\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.141,C:\Users\Petya\Documents\Embarcadero\Studio\Projects\pyshnyyAdventure\pAdventure.dproj=C:\Users\Petya\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.929,=C:\Users\Petya\Documents\Embarcadero\Studio\Projects\pyshnyyAdventure\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.396,C:\Users\Petya\Documents\Embarcadero\Studio\Projects\pyshnyyAdventure\uFunctions.pas=C:\Users\Petya\Documents\Embarcadero\Studio\Projects\pyshnyyAdventure\uPolyfils.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.218,=C:\Users\Petya\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.894,C:\Users\Petya\Documents\Embarcadero\Studio\Projects\pyshnyyAdventure\uMain.pas=C:\Users\Petya\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.177,=C:\Users\Petya\Documents\Embarcadero\Studio\Projects\pyshnyyAdventure\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.738,C:\Users\Petya\Documents\Embarcadero\Studio\Projects\pyshnyyAdventure\Unit1.pas=C:\Users\Petya\Documents\Embarcadero\Studio\Projects\pyshnyyAdventure\uDeclaretions.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.495,C:\Users\Petya\Documents\Embarcadero\Studio\Projects\pyshnyyAdventure\Unit1.pas=C:\Users\Petya\Documents\Embarcadero\Studio\Projects\pyshnyyAdventure\uWorldGenerator.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.894,C:\Users\Petya\Documents\Embarcadero\Studio\Projects\pyshnyyAdventure\uMain.dfm=C:\Users\Petya\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.692,=C:\Users\Petya\Documents\Embarcadero\Studio\Projects\pyshnyyAdventure\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.892,C:\Users\Petya\Documents\Embarcadero\Studio\Projects\pyshnyyAdventure\Unit1.pas=C:\Users\Petya\Documents\Embarcadero\Studio\Projects\pyshnyyAdventure\uPolyfils.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,=C:\Users\Petya\Documents\Embarcadero\Studio\Projects\pyshnyyAdventure\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
